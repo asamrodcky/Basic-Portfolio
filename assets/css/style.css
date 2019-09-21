@@ -1,0 +1,22 @@
+.main {
+    width: 960px;
+    clear:both;
+}
+
+#name{
+    float: left;
+}
+
+.image {
+    float:left;
+    width: 200px;
+    height: 200px;
+}
+
+footer {
+    clear:both;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    padding: 20px;
+}
