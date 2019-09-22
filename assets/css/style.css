@@ -37,7 +37,7 @@ h1{
 .header{
     background: #ffffff;
     position:relative;
-    padding:30px;
+    padding:40px;
     min-width:960px;
     margin-bottom:20px;
     border-color:#ccc;
@@ -85,4 +85,14 @@ footer {
     background: #666666;
     border-top: 8px solid #4aaaa5;
     padding: 20px;
+    width:100%;
+}
+
+.wrapper{
+    min-height:100%;
+    position:relative;
+}
+
+.form{
+    width:100%;
 }
